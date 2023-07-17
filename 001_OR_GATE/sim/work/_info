@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+vand_gate
+Z1 !s100 SQ4HmmDXRODLG5<UdHkiM0
+Z2 I<c1S55TaaQRgm@i2Sh1=o3
+Z3 VbT649VA`UFf?oDBHPfmHC0
+Z4 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+Z5 w1689570552
+Z6 8../src/rtl/and_gate.v
+Z7 F../src/rtl/and_gate.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1689570566.095000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/and_gate.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vor_gate
+!i10b 1
+!s100 HTZXI3]bhMfP`;k]UnSCY3
+IeX?Zf[CVU;:dGQ3fWLlSI1
+VSlI=:5_l>zinbASa0olcl0
+Z12 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_OR_GATE\sim
+w1689574569
+8../src/rtl/or_gate.v
+F../src/rtl/or_gate.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z13 !s108 1689574633.928000
+Z14 !s107 ../testbench/testbench.v|../src/rtl/or_gate.v|
+R11
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 J5`4Q@nOVQddz9c4k4`L<0
+I@zg^bPR<[If?E;8lGWgUb1
+Z15 VhGfW:390DM[oDMzegDH9`2
+R12
+w1689574571
+Z16 8../testbench/testbench.v
+Z17 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R13
+R14
+R11
+!s101 -O0
+o-O0
