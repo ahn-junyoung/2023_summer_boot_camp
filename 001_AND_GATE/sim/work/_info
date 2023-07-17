@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+vand_gate
+!i10b 1
+Z1 !s100 SQ4HmmDXRODLG5<UdHkiM0
+Z2 I<c1S55TaaQRgm@i2Sh1=o3
+Z3 VbT649VA`UFf?oDBHPfmHC0
+Z4 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+Z5 w1689570552
+Z6 8../src/rtl/and_gate.v
+Z7 F../src/rtl/and_gate.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1689570566.095000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/and_gate.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z12 !s100 ]kYMH;]?@mBVf]5zd;z3i3
+Z13 Ie:c?VD?`AcR^b2LUFGXBz1
+Z14 VhGfW:390DM[oDMzegDH9`2
+R4
+Z15 w1689570554
+Z16 8../testbench/testbench.v
+Z17 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
