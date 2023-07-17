@@ -1,0 +1,5 @@
+module and (
+    ports
+);
+    
+endmodule
