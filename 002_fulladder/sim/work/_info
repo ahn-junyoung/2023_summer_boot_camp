@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+vand_gate
+Z1 !s100 SQ4HmmDXRODLG5<UdHkiM0
+Z2 I<c1S55TaaQRgm@i2Sh1=o3
+Z3 VbT649VA`UFf?oDBHPfmHC0
+Z4 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_AND_GATE\sim
+Z5 w1689570552
+Z6 8../src/rtl/and_gate.v
+Z7 F../src/rtl/and_gate.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1689570566.095000
+Z10 !s107 ../testbench/testbench.v|../src/rtl/and_gate.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vfulladder
+!i10b 1
+!s100 8?`h^CChmnPIOa8b?K`f60
+IiCF3_2_oVD9YAhSm6gi_:3
+Z12 V[AzSOlA@mi7[J<:`b^I]X3
+Z13 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\002_fulladder\sim
+w1689831367
+Z14 8../src/rtl/fulladder.v
+Z15 F../src/rtl/fulladder.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z16 !s108 1689831388.409000
+Z17 !s107 ../testbench/testbench.v|../src/rtl/fulladder.v|
+R11
+!s101 -O0
+o-O0
+vhalfadder
+Z18 !s100 R1OS3Q0391IT>F6nR9J1Y0
+Z19 IcVEfkYb=l=6GQ9Nmd?PXA0
+Z20 VPmQFM95^E>S90CKVNV0mW0
+Z21 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\002_halfadder\sim
+Z22 w1689823620
+Z23 8../src/rtl/halfadder.v
+Z24 F../src/rtl/halfadder.v
+L0 1
+R8
+r1
+31
+Z25 !s108 1689823655.735000
+Z26 !s107 ../testbench/testbench.v|../src/rtl/halfadder.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vor_gate
+Z27 IeX?Zf[CVU;:dGQ3fWLlSI1
+Z28 VSlI=:5_l>zinbASa0olcl0
+Z29 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_OR_GATE\sim
+Z30 w1689574569
+Z31 8../src/rtl/or_gate.v
+Z32 F../src/rtl/or_gate.v
+L0 1
+R8
+r1
+31
+Z33 !s108 1689574633.928000
+Z34 !s107 ../testbench/testbench.v|../src/rtl/or_gate.v|
+R11
+o-O0
+Z35 !s100 HTZXI3]bhMfP`;k]UnSCY3
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z36 !s100 ^LMNL<_3J2Q6oo8c>7X531
+Z37 I`9gd]YOO19[>[@FWfOWlI2
+Z38 VhGfW:390DM[oDMzegDH9`2
+R13
+Z39 w1689824441
+Z40 8../testbench/testbench.v
+Z41 F../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R16
+R17
+R11
+!s101 -O0
+o-O0
+vxnor_gate
+Z42 IDM6LoBb;3SXHDHUbRV1GX3
+Z43 VJP2XHeEn3JGlJ:5I_kQ431
+Z44 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_XNOR_GATE\sim
+Z45 w1689577223
+Z46 8../src/rtl/xnor_gate.v
+Z47 F../src/rtl/xnor_gate.v
+L0 1
+R8
+r1
+31
+Z48 !s108 1689577654.822000
+Z49 !s107 ../testbench/testbench.v|../src/rtl/xnor_gate.v|
+R11
+o-O0
+Z50 !s100 k1Ye3?8AXIaVzZnk0d@<S0
+!i10b 1
+!s85 0
+!s101 -O0
+vxor_gate
+Z51 IWez9M5Co[:JfIMMfjnlLD2
+Z52 V^ii7_B`aZU=<zET[cABj60
+Z53 dC:\Users\wnsdu\Desktop\2023_summer_bootcamp\001_XOR_GATE\sim
+Z54 w1689576024
+Z55 8../src/rtl/xor_gate.v
+Z56 F../src/rtl/xor_gate.v
+L0 1
+R8
+r1
+31
+Z57 !s108 1689576087.854000
+Z58 !s107 ../testbench/testbench.v|../src/rtl/xor_gate.v|
+R11
+o-O0
+Z59 !s100 TWLc5jdNUW90ZaeoGz6;m3
+!i10b 1
+!s85 0
+!s101 -O0
