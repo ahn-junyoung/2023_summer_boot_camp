@@ -1,0 +1,10 @@
+module decoder_1x2(
+    input a,
+    output y0,
+    output y1,
+);
+
+assign y0 = ~a ;
+assign y1 = a;
+
+endmodule
